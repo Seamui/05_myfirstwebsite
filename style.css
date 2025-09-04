@@ -6,3 +6,12 @@ h1{
 body{
     background-color: #FFF2EF;
 }
+
+.tenor-gif-embed {
+    justify-self: center;
+    border-style: solid;
+}
+
+body{
+    display: grid;
+}
